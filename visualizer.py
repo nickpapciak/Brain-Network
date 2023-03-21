@@ -1,5 +1,5 @@
 import itertools
-import random 
+import random
 
 import pygame
 
